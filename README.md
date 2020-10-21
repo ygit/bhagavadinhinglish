@@ -1,10 +1,10 @@
 # Bhagvada in Hinglish
 
-Published Page: https://ygit.github.io/bhagvadinhinglish/
+Published Page: [https://ygit.github.io/bhagvadinhinglish/](https://ygit.github.io/bhagvadinhinglish/)
 
-Twitter: https://twitter.com/bhagvadhinglish
+Twitter: [https://twitter.com/bhagvadhinglish](https://twitter.com/bhagvadhinglish)
 
-Instagram: https://www.instagram.com/bhagvadgitainhinglish/
+Instagram: [https://www.instagram.com/bhagvadgitainhinglish/](https://www.instagram.com/bhagvadgitainhinglish/)
 
 ---
 
