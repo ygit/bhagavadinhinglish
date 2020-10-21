@@ -1,4 +1,6 @@
-# Bhagvada in Hinglish
+# Bhagvad Gita in Hinglish
+
+An attempt to convert Bhagvad Gita in Hinglish. Ek koshish Bhagvad Gita ko Hinglish me likhne ki. 🙏
 
 Published Page: [https://ygit.github.io/bhagvadinhinglish/](https://ygit.github.io/bhagvadinhinglish/)
 
