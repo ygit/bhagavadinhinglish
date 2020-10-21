@@ -1,9 +1,25 @@
-# bhagvadinhinglish
+# Bhagvada in Hinglish
 
 धृतराष्ट्र उवाच
 धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः।
 मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय।।1.1।।
 
-।।1.1।। धृतराष्ट्र बोले (टिप्पणी प0 1.2) - हे संजय! (टिप्पणी प0 1.3) धर्मभूमि कुरुक्षेत्र में युद्ध की इच्छा से इकट्ठे हुए मेरेे और पाण्डु के पुत्रों ने भी क्या किया?
-
 Dhritrashtra ne puchna, "Sanjay, Dharmabhoomi kurushetra me yudh ki icha se ikhate hue mere aur Pandu ke Putra ne abhi kya kiya?"
+
+।।1.1।। धृतराष्ट्र बोले (टिप्पणी प0 1.2) -- 
+हे संजय! धर्मभूमि कुरुक्षेत्र में युद्ध की इच्छा से इकट्ठे हुए मेरेे और पाण्डु के पुत्रों ने भी क्या किया?
+
+1.1 Dhritarashtra said, "What did my people and the sons of Pandu do when they had assembled together eager for battle on the holy plain of Kurukshetra, O Sanjaya?"
+
+--- 
+
+सञ्जय उवाच
+दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा।
+आचार्यमुपसङ्गम्य राजा वचनमब्रवीत्।।1.2।।
+
+Sanjaya ne kaha, "Pandav sena ki formation dekh kar, Raja Duryodhan ne Aacharya Drona ke paas jaakar ye kaha."
+
+।।1.2।।संजय ने कहा -- 
+पाण्डव-सैन्य की व्यूह रचना देखकर राजा दुर्योधन ने आचार्य द्रोण के पास जाकर ये वचन कहे।
+
+1.2. Sanjaya said, "Having seen the army of the Pandavas drawn up in battle-array, King Duryodhana then approached his teacher (Drona) and spoke these words."
