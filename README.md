@@ -1,7 +1,9 @@
 # Bhagvada in Hinglish
 
 Published Page: https://ygit.github.io/bhagvadinhinglish/
+
 Twitter: https://twitter.com/bhagvadhinglish
+
 Instagram: https://www.instagram.com/bhagvadgitainhinglish/
 
 ---
