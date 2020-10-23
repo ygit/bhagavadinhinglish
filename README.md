@@ -8,6 +8,8 @@ Twitter: [https://twitter.com/bhagvadhinglish](https://twitter.com/bhagvadhingli
 
 Instagram: [https://www.instagram.com/bhagvadgitainhinglish/](https://www.instagram.com/bhagvadgitainhinglish/)
 
+Source: [Gita Supersite](https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=1)
+
 ---
 
 धृतराष्ट्र उवाच
