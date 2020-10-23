@@ -35,3 +35,14 @@ Sanjaya ne kaha, "Pandav sena ki formation dekh kar, Raja Duryodhan ne Aacharya 
 पाण्डव-सैन्य की व्यूह रचना देखकर राजा दुर्योधन ने आचार्य द्रोण के पास जाकर ये वचन कहे।
 
 Sanjaya said, "Having seen the army of the Pandavas drawn up in battle-array, King Duryodhana then approached his teacher (Drona) and spoke these words."
+
+---
+
+पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम्।
+व्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता।।1.3।।
+
+"Aacharya, aapke budhimaan shishya Dhrupad-putra ke dwara, formation me khadi ki gayi Pandav-putron ki mahaan sena ko dekhiye."
+
+"।हे आचार्य ! आपके बुद्धिमान शिष्य द्रुपदपुत्र (धृष्टद्द्युम्न) द्वारा व्यूहाकार खड़ी की गयी पाण्डु पुत्रों की इस महती सेना को देखिये।"
+
+"Revered Father! Behold this mighty host of the Pandavas, paraded by the son of King Drupada, thy wise disciple."
