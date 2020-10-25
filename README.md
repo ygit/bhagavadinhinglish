@@ -46,3 +46,15 @@ Sanjaya said, "Having seen the army of the Pandavas drawn up in battle-array, Ki
 "।हे आचार्य ! आपके बुद्धिमान शिष्य द्रुपदपुत्र (धृष्टद्द्युम्न) द्वारा व्यूहाकार खड़ी की गयी पाण्डु पुत्रों की इस महती सेना को देखिये।"
 
 "Revered Father! Behold this mighty host of the Pandavas, paraded by the son of King Drupada, thy wise disciple."
+
+---
+
+अत्र शूरा महेष्वासा भीमार्जुनसमा युधि।
+युयुधानो विराटश्च द्रुपदश्च महारथः।।1.4।।
+
+"Iss sena me mahaan dhanurdhaari shoorveer yodha hai, jo yudh me Bheem aur Arjun ke saaman hai, jaise Yuyudhaan, Viraat aur Maharathi Raja Dhrupad." 
+
+"इस सेना में महान् धनुर्धारी शूर योद्धा है ,  जो युद्ध में भीम और अर्जुन के समान हैं , जैसे --  युयुधान, विराट तथा महारथी राजा द्रुपद।"
+
+"In it are heroes and great bowmen; the equals in battle of Arjuna and Bheema, Yuyudhana, Virata and Drupada, great soldiers all;"
+ 
