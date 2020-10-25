@@ -52,7 +52,7 @@ Sanjaya said, "Having seen the army of the Pandavas drawn up in battle-array, Ki
 अत्र शूरा महेष्वासा भीमार्जुनसमा युधि।
 युयुधानो विराटश्च द्रुपदश्च महारथः।।1.4।।
 
-"Iss sena me mahaan dhanurdhaari shoorveer yodha hai, jo yudh me Bheem aur Arjun ke saaman hai, jaise Yuyudhaan, Viraat aur Maharathi Raja Dhrupad." 
+"Iss sena me mahaan dhanurdhaari shoorveer yodha hai, jo yudh me Bheem aur Arjun ke jaise hai, jaise Yuyudhaan, Viraat aur Maharathi Raja Dhrupad." 
 
 "इस सेना में महान् धनुर्धारी शूर योद्धा है ,  जो युद्ध में भीम और अर्जुन के समान हैं , जैसे --  युयुधान, विराट तथा महारथी राजा द्रुपद।"
 
