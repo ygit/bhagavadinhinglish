@@ -57,4 +57,15 @@ Sanjaya said, "Having seen the army of the Pandavas drawn up in battle-array, Ki
 "इस सेना में महान् धनुर्धारी शूर योद्धा है ,  जो युद्ध में भीम और अर्जुन के समान हैं , जैसे --  युयुधान, विराट तथा महारथी राजा द्रुपद।"
 
 "In it are heroes and great bowmen; the equals in battle of Arjuna and Bheema, Yuyudhana, Virata and Drupada, great soldiers all;"
+
+---
+
+धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान्।
+पुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुङ्गवः।।1.5।।
+
+"Dhrishtaketu, Chekitan, balwaan Kaashiraaj", Purujit, Kuntibhoj aur Humans me best Shaibya"
+
+"धृष्टकेतु, चेकितान, बलवान काशिराज,  पुरुजित्, कुन्तिभोज और मनुष्यों में श्रेष्ठ शैब्य।"
+
+"Dhrishtaketu, Chekitan, the valiant King of Benares, Purujit, Kuntibhoja, Shaibya - a master over many;"
  
