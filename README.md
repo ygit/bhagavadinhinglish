@@ -10,6 +10,8 @@ Instagram: [https://www.instagram.com/bhagvadgitainhinglish/](https://www.instag
 
 Source: [Gita Supersite](https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=1)
 
+Editor: [Carbon Shell](https://carbon.now.sh)
+
 ---
 
 धृतराष्ट्र उवाच
