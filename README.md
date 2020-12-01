@@ -70,4 +70,15 @@ Sanjaya said, "Having seen the army of the Pandavas drawn up in battle-array, Ki
 "धृष्टकेतु, चेकितान, बलवान काशिराज,  पुरुजित्, कुन्तिभोज और मनुष्यों में श्रेष्ठ शैब्य।"
 
 "Dhrishtaketu, Chekitan, the valiant King of Benares, Purujit, Kuntibhoja, Shaibya - a master over many;"
+
+---
+
+युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान्।
+सौभद्रो द्रौपदेयाश्च सर्व एव महारथाः।।1.6।।
+
+Yudhamanyu, Vikrant, Uttamouja, aur saare Subhadra & Draupadi putra, sabhi Maharathi yodha hain.
+
+यहाँ (पाण्डवों की सेना में) बड़े-बड़े शूरवीर हैं, जिनके बहुत बड़े-बड़े धनुष हैं तथा जो युद्ध में भीम और अर्जुनके समान हैं। उनमें युयुधान (सात्यकि), राजा विराट और महारथी द्रुपद भी हैं। धृष्टकेतु और चेकितान तथा पराक्रमी काशिराज भी हैं। पुरुजित् और कुन्तिभोज--ये दोनों भाई तथा मनुष्योंमें श्रेष्ठ शैब्य भी हैं। पराक्रमी युधामन्यु और पराक्रमी उत्तमौजा भी हैं। सुभद्रापुत्र अभिमन्यु और द्रौपदी के पाँचों पुत्र भी हैं। ये सब-के-सब महारथी हैं।
+
+Yudhamanyu, Uttamouja, Soubhadra and the sons of Draupadi, all are great charioteers, great heroes.
  
