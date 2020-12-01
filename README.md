@@ -4,9 +4,9 @@ An attempt to write Bhagavad Gita in Hinglish. Ek koshish Bhagavad Gita ko Hingl
 
 Published Page: [https://ygit.github.io/bhagavadinhinglish/](https://ygit.github.io/bhagavadinhinglish/)
 
-Twitter: [https://twitter.com/bhagvadhinglish](https://twitter.com/bhagvadhinglish)
+Twitter: [https://twitter.com/bhagvadhinglish](https://twitter.com/gitainhinglish)
 
-Instagram: [https://www.instagram.com/bhagvadgitainhinglish/](https://www.instagram.com/bhagvadgitainhinglish/)
+Instagram: [https://www.instagram.com/bhagvadgitainhinglish/](https://www.instagram.com/bhagavadgitainhinglish/)
 
 Source: [Gita Supersite](https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=1)
 
