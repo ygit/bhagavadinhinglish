@@ -82,3 +82,13 @@ Yudhamanyu, Vikrant, Uttamouja, aur saare Subhadra & Draupadi putra, sabhi Mahar
 
 Yudhamanyu, Uttamouja, Soubhadra and the sons of Draupadi, all are great charioteers, great heroes.
  
+ ---
+ 
+अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम।
+नायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते।।1.7।।
+
+Hey Dweejotam, hamare paksh me bhi jo vishist yodhagan hai, unko aap jaan lijiye; aapki jankaari ke liye apni sena ke nayako ke naam me aapko batata hun.
+
+।हे द्विजोत्तम ! हमारे पक्ष में भी जो विशिष्ट योद्धागण हैं , उनको आप जान लीजिये; आपकी जानकारी के लिये अपनी सेना के नायकों के नाम मैं आपको बताता हूँ।
+
+Further, take note of all those captains who have ranged themselves on our side, O best of Spiritual Guides! The leaders of my army. I will name them for you.
