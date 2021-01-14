@@ -92,3 +92,16 @@ Hey Dweejotam, hamare paksh me bhi jo vishist yodhagan hai, unko aap jaan lijiye
 ।हे द्विजोत्तम ! हमारे पक्ष में भी जो विशिष्ट योद्धागण हैं , उनको आप जान लीजिये; आपकी जानकारी के लिये अपनी सेना के नायकों के नाम मैं आपको बताता हूँ।
 
 Further, take note of all those captains who have ranged themselves on our side, O best of Spiritual Guides! The leaders of my army. I will name them for you.
+
+---
+
+भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः।
+अश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च।।1.8।।
+
+Ek toh aap hain, Bheeshma, Karna aur yudh me vijayi Kripacharya aur Ashvathama, Vikarna aur Somdutta putra hai.
+
+एक तो स्वयं आप, भीष्म, कर्ण, और युद्ध विजयी कृपाचार्य तथा अश्वत्थामा, विकर्ण और सोमदत्त का पुत्र है।
+
+You come first; then Bheeshma, Karna, Kripa, great soldiers; Ashwaththama, Vikarna and the son of Somadhatta.
+
+---
