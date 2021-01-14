@@ -8,6 +8,8 @@ Twitter: [https://twitter.com/gitainhinglish](https://twitter.com/gitainhinglish
 
 Instagram: [https://www.instagram.com/bhagvadgitainhinglish/](https://www.instagram.com/bhagavadgitainhinglish/)
 
+Facebook: [https://www.facebook.com/bhagavadgitainhinglish](https://www.facebook.com/bhagavadgitainhinglish)
+
 Source: [Gita Supersite](https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=1)
 
 Editor: [Carbon Shell](https://carbon.now.sh)
