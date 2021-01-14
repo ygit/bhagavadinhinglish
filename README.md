@@ -13,8 +13,11 @@ Source: [Gita Supersite](https://www.gitasupersite.iitk.ac.in/srimad?language=dv
 Editor: [Carbon Shell](https://carbon.now.sh)
 
 📜 Sanskrit
+
 🗣 Hinglish
+
 📝 Hindi
+
 🔠 English
 
 ---
