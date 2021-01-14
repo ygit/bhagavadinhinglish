@@ -12,6 +12,11 @@ Source: [Gita Supersite](https://www.gitasupersite.iitk.ac.in/srimad?language=dv
 
 Editor: [Carbon Shell](https://carbon.now.sh)
 
+📜 Sanskrit
+🗣 Hinglish
+📝 Hindi
+🔠 English
+
 ---
 
 धृतराष्ट्र उवाच
@@ -21,9 +26,9 @@ Editor: [Carbon Shell](https://carbon.now.sh)
 🗣 Dhritrashtra ne puchna, "Sanjay, Dharmabhoomi kurushetra me yudh ki icha se ikhate hue mere aur Pandu ke Putra ne abhi kya kiya?"
 
 धृतराष्ट्र बोले -- 
-हे संजय! धर्मभूमि कुरुक्षेत्र में युद्ध की इच्छा से इकट्ठे हुए मेरेे और पाण्डु के पुत्रों ने भी क्या किया?
+हे संजय! धर्मभूमि कुरुक्षेत्र में युद्ध की इच्छा से इकट्ठे हुए मेरेे और पाण्डु के पुत्रों ने भी क्या किया? 📝
 
-Dhritarashtra said, "What did my people and the sons of Pandu do when they had assembled together eager for battle on the holy plain of Kurukshetra, O Sanjaya?"
+Dhritarashtra said, "What did my people and the sons of Pandu do when they had assembled together eager for battle on the holy plain of Kurukshetra, O Sanjaya?" 🔠
 
 --- 
 
@@ -34,9 +39,9 @@ Dhritarashtra said, "What did my people and the sons of Pandu do when they had a
 🗣 Sanjaya ne kaha, "Pandav sena ki formation dekh kar, Raja Duryodhan ne Aacharya Drona ke paas jaakar ye kaha."
 
 संजय ने कहा -- 
-पाण्डव-सैन्य की व्यूह रचना देखकर राजा दुर्योधन ने आचार्य द्रोण के पास जाकर ये वचन कहे।
+पाण्डव-सैन्य की व्यूह रचना देखकर राजा दुर्योधन ने आचार्य द्रोण के पास जाकर ये वचन कहे। 📝
 
-Sanjaya said, "Having seen the army of the Pandavas drawn up in battle-array, King Duryodhana then approached his teacher (Drona) and spoke these words."
+Sanjaya said, "Having seen the army of the Pandavas drawn up in battle-array, King Duryodhana then approached his teacher (Drona) and spoke these words." 🔠
 
 ---
 
@@ -45,9 +50,9 @@ Sanjaya said, "Having seen the army of the Pandavas drawn up in battle-array, Ki
 
 🗣 "Aacharya, aapke budhimaan shishya Dhrupad-putra ke dwara, formation me khadi ki gayi Pandav-putron ki mahaan sena ko dekhiye."
 
-"।हे आचार्य ! आपके बुद्धिमान शिष्य द्रुपदपुत्र (धृष्टद्द्युम्न) द्वारा व्यूहाकार खड़ी की गयी पाण्डु पुत्रों की इस महती सेना को देखिये।"
+"।हे आचार्य ! आपके बुद्धिमान शिष्य द्रुपदपुत्र (धृष्टद्द्युम्न) द्वारा व्यूहाकार खड़ी की गयी पाण्डु पुत्रों की इस महती सेना को देखिये।" 📝
 
-"Revered Father! Behold this mighty host of the Pandavas, paraded by the son of King Drupada, thy wise disciple."
+"Revered Father! Behold this mighty host of the Pandavas, paraded by the son of King Drupada, thy wise disciple." 🔠
 
 ---
 
@@ -56,9 +61,9 @@ Sanjaya said, "Having seen the army of the Pandavas drawn up in battle-array, Ki
 
 🗣 "Iss sena me mahaan dhanurdhaari shoorveer yodha hai, jo yudh me Bheem aur Arjun ke jaise hai, jaise Yuyudhaan, Viraat aur Maharathi Raja Dhrupad." 
 
-"इस सेना में महान् धनुर्धारी शूर योद्धा है ,  जो युद्ध में भीम और अर्जुन के समान हैं , जैसे --  युयुधान, विराट तथा महारथी राजा द्रुपद।"
+"इस सेना में महान् धनुर्धारी शूर योद्धा है ,  जो युद्ध में भीम और अर्जुन के समान हैं , जैसे --  युयुधान, विराट तथा महारथी राजा द्रुपद।" 📝
 
-"In it are heroes and great bowmen; the equals in battle of Arjuna and Bheema, Yuyudhana, Virata and Drupada, great soldiers all;"
+"In it are heroes and great bowmen; the equals in battle of Arjuna and Bheema, Yuyudhana, Virata and Drupada, great soldiers all." 🔠
 
 ---
 
@@ -67,9 +72,9 @@ Sanjaya said, "Having seen the army of the Pandavas drawn up in battle-array, Ki
 
 🗣 "Dhrishtaketu, Chekitan, balwaan Kaashiraaj", Purujit, Kuntibhoj aur Humans me best Shaibya"
 
-"धृष्टकेतु, चेकितान, बलवान काशिराज,  पुरुजित्, कुन्तिभोज और मनुष्यों में श्रेष्ठ शैब्य।"
+"धृष्टकेतु, चेकितान, बलवान काशिराज,  पुरुजित्, कुन्तिभोज और मनुष्यों में श्रेष्ठ शैब्य।" 📝
 
-"Dhrishtaketu, Chekitan, the valiant King of Benares, Purujit, Kuntibhoja, Shaibya - a master over many."
+"Dhrishtaketu, Chekitan, the valiant King of Benares, Purujit, Kuntibhoja, Shaibya - a master over many." 🔠
 
 ---
 
@@ -78,9 +83,9 @@ Sanjaya said, "Having seen the army of the Pandavas drawn up in battle-array, Ki
 
 🗣 "Yudhamanyu, Vikrant, Uttamouja, aur saare Subhadra & Draupadi putra, sabhi Maharathi yodha hain."
 
-यहाँ (पाण्डवों की सेना में) बड़े-बड़े शूरवीर हैं, जिनके बहुत बड़े-बड़े धनुष हैं तथा जो युद्ध में भीम और अर्जुनके समान हैं। उनमें युयुधान (सात्यकि), राजा विराट और महारथी द्रुपद भी हैं। धृष्टकेतु और चेकितान तथा पराक्रमी काशिराज भी हैं। पुरुजित् और कुन्तिभोज--ये दोनों भाई तथा मनुष्योंमें श्रेष्ठ शैब्य भी हैं। पराक्रमी युधामन्यु और पराक्रमी उत्तमौजा भी हैं। सुभद्रापुत्र अभिमन्यु और द्रौपदी के पाँचों पुत्र भी हैं। ये सब-के-सब महारथी हैं।
+यहाँ (पाण्डवों की सेना में) बड़े-बड़े शूरवीर हैं, जिनके बहुत बड़े-बड़े धनुष हैं तथा जो युद्ध में भीम और अर्जुनके समान हैं। उनमें युयुधान (सात्यकि), राजा विराट और महारथी द्रुपद भी हैं। धृष्टकेतु और चेकितान तथा पराक्रमी काशिराज भी हैं। पुरुजित् और कुन्तिभोज--ये दोनों भाई तथा मनुष्योंमें श्रेष्ठ शैब्य भी हैं। पराक्रमी युधामन्यु और पराक्रमी उत्तमौजा भी हैं। सुभद्रापुत्र अभिमन्यु और द्रौपदी के पाँचों पुत्र भी हैं। ये सब-के-सब महारथी हैं। 📝
 
-Yudhamanyu, Uttamouja, Soubhadra and the sons of Draupadi, all are great charioteers, great heroes.
+Yudhamanyu, Uttamouja, Soubhadra and the sons of Draupadi, all are great charioteers, great heroes. 🔠
  
  ---
  
@@ -89,9 +94,9 @@ Yudhamanyu, Uttamouja, Soubhadra and the sons of Draupadi, all are great chariot
 
 🗣 Hey Dweejotam, hamare paksh me bhi jo vishist yodhagan hai, unko aap jaan lijiye; aapki jankaari ke liye apni sena ke nayako ke naam me aapko batata hun.
 
-।हे द्विजोत्तम ! हमारे पक्ष में भी जो विशिष्ट योद्धागण हैं , उनको आप जान लीजिये; आपकी जानकारी के लिये अपनी सेना के नायकों के नाम मैं आपको बताता हूँ।
+।हे द्विजोत्तम ! हमारे पक्ष में भी जो विशिष्ट योद्धागण हैं , उनको आप जान लीजिये; आपकी जानकारी के लिये अपनी सेना के नायकों के नाम मैं आपको बताता हूँ। 📝
 
-Further, take note of all those captains who have ranged themselves on our side, O best of Spiritual Guides! The leaders of my army. I will name them for you.
+Further, take note of all those captains who have ranged themselves on our side, O best of Spiritual Guides! The leaders of my army. I will name them for you. 🔠
 
 ---
 
@@ -100,8 +105,8 @@ Further, take note of all those captains who have ranged themselves on our side,
 
 🗣 Ek toh aap hain, Bheeshma, Karna aur yudh me vijayi Kripacharya aur Ashvathama, Vikarna aur Somdutta putra hai.
 
-एक तो स्वयं आप, भीष्म, कर्ण, और युद्ध विजयी कृपाचार्य तथा अश्वत्थामा, विकर्ण और सोमदत्त का पुत्र है।
+एक तो स्वयं आप, भीष्म, कर्ण, और युद्ध विजयी कृपाचार्य तथा अश्वत्थामा, विकर्ण और सोमदत्त का पुत्र है। 📝
 
-You come first; then Bheeshma, Karna, Kripa, great soldiers; Ashwaththama, Vikarna and the son of Somadhatta.
+You come first; then Bheeshma, Karna, Kripa, great soldiers; Ashwaththama, Vikarna and the son of Somadhatta. 🔠
 
 ---
