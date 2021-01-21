@@ -115,3 +115,14 @@ Further, take note of all those captains who have ranged themselves on our side,
 You come first; then Bheeshma, Karna, Kripa, great soldiers; Ashwaththama, Vikarna and the son of Somadhatta. 🔠
 
 ---
+
+अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः।
+नानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः।।1.9।। 📜
+
+🗣 Mere liye praan tyaag karne ke liye tayaar, anek prakaar ke shastra se susajeet aur yudh me kushal aur me anek shoorveer hain.
+
+मेरे लिए प्राण त्याग करने के लिए तैयार, अनेक प्रकार के शस्त्रास्त्रों से सुसज्जित तथा युद्ध में कुशल और भी अनेक शूर वीर हैं। ॐ
+
+And also many other heroes who are ready to give up their lives for my sake, armed with various weapons and missiles, all well-skilled in battle. 🔠
+
+---
