@@ -6,7 +6,7 @@ Published Page: [https://ygit.github.io/bhagavadinhinglish/](https://ygit.github
 
 Twitter: [https://twitter.com/gitainhinglish](https://twitter.com/gitainhinglish)
 
-Instagram: [https://www.instagram.com/bhagvadgitainhinglish/](https://www.instagram.com/bhagavadgitainhinglish/)
+Instagram: [https://www.instagram.com/bhagavadgitainhinglish/](https://www.instagram.com/bhagavadgitainhinglish/)
 
 Facebook: [https://www.facebook.com/bhagavadgitainhinglish](https://www.facebook.com/bhagavadgitainhinglish)
 
