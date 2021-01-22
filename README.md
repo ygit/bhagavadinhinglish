@@ -126,3 +126,15 @@ You come first; then Bheeshma, Karna, Kripa, great soldiers; Ashwaththama, Vikar
 And also many other heroes who are ready to give up their lives for my sake, armed with various weapons and missiles, all well-skilled in battle. 🔠
 
 ---
+
+अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम्।
+पर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम्।।1.10।। 📜
+
+🗣 Hamaari sena, jiske Sanrakshak Bheeshma hai, jeetne me asamarth hai. But Pandavo ki sena, jiske Sanrakshak Bheem hai, woh samarth hai.
+
+हमारी सेना पाण्डवों पर विजय करने में अपर्याप्त है, असमर्थ है; क्योंकि उसके संरक्षक (उभयपक्षपाती) भीष्म हैं।
+परन्तु इन पाण्डवों की सेना हमारे पर विजय करने में पर्याप्त है, समर्थ है; क्योंकि इसके संरक्षक (निजसेनापक्षपाती) भीमसेन हैं। ॐ
+
+This army of ours marshalled by Bhishma is insufficient, whereas that army of theirs marshelled by Bhima is sufficient. 🔠
+
+---
