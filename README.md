@@ -138,3 +138,14 @@ And also many other heroes who are ready to give up their lives for my sake, arm
 This army of ours marshalled by Bhishma is insufficient, whereas that army of theirs marshelled by Bhima is sufficient. 🔠
 
 ---
+
+अयनेषु च सर्वेषु यथाभागमवस्थिताः।
+भीष्ममेवाभिरक्षन्तु भवन्तः सर्व एव हि।।1.11।। 📜
+
+🗣 Sab sides aap sab sirf Bheeshma Pitamaah ki hi rakhsha kare.
+
+विभिन्न मोर्चों पर अपने-अपने स्थान पर स्थित रहते हुए आप सब लोग भीष्म पितामह की ही सब ओर से रक्षा करें। ॐ
+
+Therefore you all, stationed in your respective positions, in the several divisions of the army, protect Bhishma alone. 🔠
+
+---
