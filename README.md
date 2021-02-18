@@ -149,3 +149,12 @@ This army of ours marshalled by Bhishma is insufficient, whereas that army of th
 Therefore you all, stationed in your respective positions, in the several divisions of the army, protect Bhishma alone. 🔠
 
 ---
+
+तस्य संजनयन्हर्षं कुरुवृद्धः पितामहः।
+सिंहनादं विनद्योच्चैः शङ्खं दध्मौ प्रतापवान्।।1.12।। 📜
+
+🗣 Duryodhan ko sahaas dene ke liye Kuru shreshta Bheeshma Pitamah ne Sher ke jaise Shaankh naad kiya
+
+दुर्योधन के हृदय में हर्ष उत्पन्न करते हुए कुरुवृद्ध प्रभावशाली पितामह भीष्म ने सिंह के समान गरज कर जोर से शंख बजाया। ॐ
+
+Then to enliven his spirits, the brave Grandfather Bheeshma, eldest of the Kuru-clan, blew his conch, till it sounded like a lion's roar. 🔠
